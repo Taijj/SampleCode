@@ -1,0 +1,19 @@
+{
+    "name": "Taijj.Toolbox.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.2D.Psdimporter.Editor",
+        "Taijj.Toolbox.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

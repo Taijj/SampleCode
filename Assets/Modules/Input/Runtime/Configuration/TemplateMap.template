@@ -1,0 +1,51 @@
+using UnityEngine.InputSystem;
+using UnityEngine;
+using Ble.Input;
+using System;
+
+namespace {NAMESPACE}
+{
+    [CreateAssetMenu(fileName = "{NAME}Map", menuName = "Ble/Input/Maps/{NAME}")]
+    public class {NAME}Map : ActionMap<{BASE}>
+    {
+        #region Lifecycle
+        public override void Wake(object actions)
+        {
+            base.Wake(actions);
+            Actions = Base.{NAME};
+            AddListeners();
+        }
+
+        public override void CleanUp() => RemoveListeners();
+
+        public override bool IsEnabled
+        {
+            get => Actions.enabled;
+
+            set
+            {
+                if (value)
+                    Actions.Enable();
+                else
+                    Actions.Disable();
+            }
+        }
+
+        private InputActions.{NAME}Actions Actions { get; set; }
+        #endregion
+
+
+
+        #region Events
+        private void AddListeners()
+        {
+            // Add Listeners Here
+        }
+
+        private void RemoveListeners()
+        {
+            // Remove Listeners Here
+        }
+        #endregion
+    }
+}

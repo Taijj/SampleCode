@@ -1,0 +1,21 @@
+{
+    "name": "Taijj.Input.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.InputSystem",
+        "Taijj.Input.Runtime",
+        "Taijj.Toolbox.Runtime",
+        "Taijj.Toolbox.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
