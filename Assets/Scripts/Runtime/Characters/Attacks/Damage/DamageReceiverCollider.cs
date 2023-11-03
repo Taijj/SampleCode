@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// <see cref="DamageReceiver"> that invokes OnKill event when health is reduced to zero.

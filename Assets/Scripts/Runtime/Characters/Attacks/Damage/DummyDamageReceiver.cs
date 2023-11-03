@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Dummy entity for testing, if damage is properly received.

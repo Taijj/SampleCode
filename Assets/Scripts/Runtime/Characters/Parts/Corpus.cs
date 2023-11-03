@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Encaspulates Unity collission features, e.g. Colliding and Triggering

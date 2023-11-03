@@ -6,7 +6,7 @@ using UnityEngine;
 	using System.Linq;
 #endif
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Helper and manager for <see cref="Hero"/> jumping.

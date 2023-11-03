@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.U2D;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// SceneRoot and Facade for a playable level Scene.

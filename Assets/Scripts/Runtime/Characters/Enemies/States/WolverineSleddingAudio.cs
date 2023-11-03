@@ -1,7 +1,7 @@
 using FMODUnity;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Initialization State, that handles the sledding Wolverine <see cref="Enemy"/>'s

@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Weapon that fires <see cref="Shot"/>s in a configurable frequency.

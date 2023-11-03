@@ -3,9 +3,9 @@ using System;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using Kind = Taijj.HeartWarming.DamageOutcome.Kind;
+using Kind = Taijj.SampleCode.DamageOutcome.Kind;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Handles the transfer of damage and other information to a <see cref="DamageReceiver"/> and its owner.

@@ -2,7 +2,7 @@ using Cinemachine;
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// The visual IceStomp "attack" (NOTE: not really an <see cref="Attack"/>)

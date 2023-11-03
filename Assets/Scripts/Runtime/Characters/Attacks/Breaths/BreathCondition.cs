@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// <see cref="DamageCondition"/> for the specifics of a <see cref="Breath"/>.

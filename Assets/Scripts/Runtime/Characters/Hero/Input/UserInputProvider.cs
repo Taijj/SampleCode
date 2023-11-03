@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Encapsulates and manages user input to be relayed and preprocessed for

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Base for providing inputs to the <see cref="Hero"/>

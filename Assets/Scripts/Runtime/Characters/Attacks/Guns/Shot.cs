@@ -2,7 +2,7 @@ using FMODUnity;
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// A projectile, in different states:

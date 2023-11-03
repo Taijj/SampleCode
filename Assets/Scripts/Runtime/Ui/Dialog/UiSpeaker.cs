@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     public class UiSpeaker : MonoBehaviour
     {

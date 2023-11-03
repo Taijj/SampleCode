@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Base manager of a Character's visuals and physics.

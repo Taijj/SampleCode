@@ -1,7 +1,7 @@
 using UnityEngine;
-using State = Taijj.HeartWarming.SnowBox.State;
+using State = Taijj.SampleCode.SnowBox.State;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Holds the aggregate state of itself and manages transitions to other states,

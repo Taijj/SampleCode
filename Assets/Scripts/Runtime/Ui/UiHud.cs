@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Top Level Manager for all Hud Uis

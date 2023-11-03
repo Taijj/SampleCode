@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Controller of a <see cref="Breath"/>'s graphics, especially

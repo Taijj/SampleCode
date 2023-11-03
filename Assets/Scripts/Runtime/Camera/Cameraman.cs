@@ -9,7 +9,7 @@ using Blend = Cinemachine.CinemachineBlendDefinition;
 using System.Reflection;
 #endif
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Main controller for the game's camera and Unity's Cinemachine

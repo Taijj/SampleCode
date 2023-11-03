@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// The visual FireDash "attack" (NOTE: not really an <see cref="Attack"/>)

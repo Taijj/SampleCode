@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	[Serializable]
 	public class AnimatorEvent : UnityEvent {}

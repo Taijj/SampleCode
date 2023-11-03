@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Helper for a ressource, like health and/or mana.

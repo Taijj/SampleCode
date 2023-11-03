@@ -1,7 +1,7 @@
 
 using System;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Cacheable, lightweight helper for delayed calls, that could be used as an alternative

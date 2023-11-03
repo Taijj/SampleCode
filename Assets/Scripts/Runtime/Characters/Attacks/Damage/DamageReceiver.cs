@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Base for objects that can receive damage from a

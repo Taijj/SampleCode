@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// <see cref="Pawn"/> with physics and physical movement.

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// State an <see cref="Enemy"/> is in while performing a looping animation.

@@ -1,7 +1,7 @@
 using UnityEngine;
-using Modifiers = Taijj.HeartWarming.MoveData.Modifiers;
+using Modifiers = Taijj.SampleCode.MoveData.Modifiers;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Interface for entities, that react to <see cref="WaterZone"/>.

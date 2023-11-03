@@ -1,7 +1,7 @@
 using FMODUnity;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// For simple Scenes that just show some text and will load a next

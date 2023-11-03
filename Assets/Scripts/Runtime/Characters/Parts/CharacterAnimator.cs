@@ -3,7 +3,7 @@ using System;
 using UnityEngine;
 using Parameter = UnityEngine.AnimatorControllerParameter;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Wrapper for Unity's Mecanim <see cref="Animator"/> system.

@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Helper for dropping <see cref="Ore"/> with configurable settings,

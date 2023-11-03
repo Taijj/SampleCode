@@ -4,7 +4,7 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	[Serializable]
 	public class FlashData

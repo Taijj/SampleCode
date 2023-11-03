@@ -5,7 +5,7 @@ using FMODUnity;
 using UnityEditor;
 #endif
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// An attack working with particles and an area of effect, e.g. a cone.

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     /// <summary>
     /// Controls the LifeCycle and collection of <see cref="Pickup"/>s. Also

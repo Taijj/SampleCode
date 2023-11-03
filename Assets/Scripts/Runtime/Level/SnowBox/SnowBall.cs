@@ -1,7 +1,7 @@
 using FMODUnity;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// A rolling ball of snow, that can be frozen and melted.

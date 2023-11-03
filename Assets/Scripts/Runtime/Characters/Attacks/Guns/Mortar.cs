@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Attack that throws a <see cref="Shot"/> in an arching motion.

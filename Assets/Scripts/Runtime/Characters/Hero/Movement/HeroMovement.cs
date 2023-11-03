@@ -1,7 +1,7 @@
 using FMODUnity;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Handles the movement behavior of the <see cref="Hero"/>.

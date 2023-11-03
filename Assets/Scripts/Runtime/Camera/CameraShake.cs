@@ -4,7 +4,7 @@ using UnityEngine;
 using Impulse = Cinemachine.CinemachineImpulseDefinition;
 using Envelope = Cinemachine.CinemachineImpulseManager.EnvelopeDefinition;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Handles Camera shaking.

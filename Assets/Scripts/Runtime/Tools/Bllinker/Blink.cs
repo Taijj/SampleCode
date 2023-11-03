@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Used to define a certain, reusable blink behavior.

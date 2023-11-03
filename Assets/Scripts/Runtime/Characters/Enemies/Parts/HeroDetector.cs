@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Performs different distance and visibility checks towards the <see cref="Hero"/>,

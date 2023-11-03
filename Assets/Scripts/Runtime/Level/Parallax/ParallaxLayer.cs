@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Layer that moves similar to the Camera with its speed depending on the parallax Effect Multiplier and the Z position of its transform.

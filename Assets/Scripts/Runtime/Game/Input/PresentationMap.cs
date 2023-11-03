@@ -3,7 +3,7 @@ using UnityEngine;
 using Taijj.Input;
 using System;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     [CreateAssetMenu(fileName = "PresentationMap", menuName = "Ble/Input/Maps/Presentation")]
     public class PresentationMap : ActionMap<InputActions>

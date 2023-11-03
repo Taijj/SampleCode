@@ -2,7 +2,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Helper for life cycle management and configuration

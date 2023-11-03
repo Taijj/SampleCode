@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// State while the Character is touching a wall.

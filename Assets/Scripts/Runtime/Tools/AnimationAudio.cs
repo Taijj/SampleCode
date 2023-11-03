@@ -1,7 +1,7 @@
 using FMODUnity;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// The Inspector of Unity Animation Events cannot handle FMOD <see cref="EventReference"/>s.

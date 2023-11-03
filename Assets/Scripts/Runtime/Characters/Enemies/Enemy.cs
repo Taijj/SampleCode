@@ -1,8 +1,8 @@
-using Taijj.HeartWarming;
+using Taijj.SampleCode;
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Base controller for any Enemy in the game. Handles common features for all enemies.

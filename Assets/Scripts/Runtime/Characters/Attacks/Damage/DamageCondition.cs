@@ -1,4 +1,4 @@
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Base to help defining entity specific conditions for damage

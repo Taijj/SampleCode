@@ -1,8 +1,8 @@
-using Taijj.HeartWarming;
+using Taijj.SampleCode;
 using UnityEditor;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     [CustomPropertyDrawer(typeof(OreDropper.Entry))]
     public class DropEntryDrawer : PropertyDuoDrawer

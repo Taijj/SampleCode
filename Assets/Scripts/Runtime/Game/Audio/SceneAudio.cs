@@ -1,7 +1,7 @@
 using UnityEngine;
 using FMODUnity;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Takes care of Scene specific Audio.

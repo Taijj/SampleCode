@@ -3,7 +3,7 @@ using FMODUnity;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// This game's "AudioManager", manages and handles triggering of Audio events.

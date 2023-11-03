@@ -2,7 +2,7 @@ using FMODUnity;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Scriptable object containing configuration for SnowBox Tile

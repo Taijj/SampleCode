@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	[Flags]
 	public enum AttackAttribute

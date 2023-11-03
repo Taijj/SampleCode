@@ -7,7 +7,7 @@ using DG.Tweening;
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     /// <summary>
     /// Topmost controller for the game's flow.

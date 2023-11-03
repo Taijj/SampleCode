@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Handles Ore Ui changes

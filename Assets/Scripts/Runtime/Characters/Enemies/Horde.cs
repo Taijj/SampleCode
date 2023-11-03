@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Top Level manager for all <see cref="Enemy"/>s and <see cref="Npc"/>s.

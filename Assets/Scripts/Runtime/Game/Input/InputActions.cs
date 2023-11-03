@@ -15,7 +15,7 @@ using System.Collections.Generic;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Utilities;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     public partial class @InputActions: IInputActionCollection2, IDisposable
     {

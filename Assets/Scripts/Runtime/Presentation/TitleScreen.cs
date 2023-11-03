@@ -2,7 +2,7 @@ using FMODUnity;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	public class TitleScreen : SceneRoot
 	{

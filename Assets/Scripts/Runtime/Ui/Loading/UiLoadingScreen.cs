@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     public abstract class UiLoadingScreen : UiDisplay
     {

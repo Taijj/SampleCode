@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     public struct OreSpawnData
     {

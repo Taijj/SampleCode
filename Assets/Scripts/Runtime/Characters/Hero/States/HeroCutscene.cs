@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// This state is only a dummy for the prototype and should be discarded as soon as a full-fledged cutscene system is available. 

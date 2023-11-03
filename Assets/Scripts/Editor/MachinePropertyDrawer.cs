@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	[CustomPropertyDrawer(typeof(MachineConfig.Property), true)]
 	public class MachinePropertyDrawer : PropertyDrawer

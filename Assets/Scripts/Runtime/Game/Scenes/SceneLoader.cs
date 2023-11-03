@@ -3,7 +3,7 @@ using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     /// <summary>
     /// Controls the logical flow for scene transitions.

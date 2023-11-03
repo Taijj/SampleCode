@@ -1,5 +1,5 @@
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	public enum LoadingScreenKind
 	{

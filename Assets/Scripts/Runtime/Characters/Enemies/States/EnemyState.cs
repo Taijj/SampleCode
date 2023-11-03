@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Base for a state the <see cref="Enemy"/> can be in.

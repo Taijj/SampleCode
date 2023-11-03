@@ -3,7 +3,7 @@ using FMODUnity;
 using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Shield used by the Wolverine <see cref="Enemy"/>. Manages its own health and visuals.

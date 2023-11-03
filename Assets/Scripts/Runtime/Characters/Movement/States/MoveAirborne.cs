@@ -1,5 +1,5 @@
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// State while the Character is moving freely around in midair.

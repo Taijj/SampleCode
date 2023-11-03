@@ -3,7 +3,7 @@ using DG.Tweening;
 using FMODUnity;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// State that handles the Falcon <see cref="Enemy"/>'s dive attack.

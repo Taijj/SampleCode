@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
     /// <summary>
     /// Scene independently initializes the Game Scene and triggers <see cref="Game"/> initialization

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Handles attraction of the given rigidbody towards the <see cref="Hero"/>,

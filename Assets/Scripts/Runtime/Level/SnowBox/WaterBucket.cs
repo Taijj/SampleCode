@@ -2,9 +2,9 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using State = Taijj.HeartWarming.SnowBox.State;
+using State = Taijj.SampleCode.SnowBox.State;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Helper for filling a <see cref="SnowBox"/> with water. Has a certain amount

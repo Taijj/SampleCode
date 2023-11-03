@@ -3,7 +3,7 @@ using System;
 using UnityEngine;
 using Blend = Cinemachine.CinemachineBlendDefinition;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Contains a set of settings for different Camera behavior. Uses a bunch

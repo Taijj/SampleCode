@@ -1,4 +1,4 @@
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Condtion for Special damage. Necessary to ensure, that a dash

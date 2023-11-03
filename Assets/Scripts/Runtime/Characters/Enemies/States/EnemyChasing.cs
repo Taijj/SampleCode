@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// State for <see cref="Enemy"/>s while they chase after the <see cref="Hero"/>.

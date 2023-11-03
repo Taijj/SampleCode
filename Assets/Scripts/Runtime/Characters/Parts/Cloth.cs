@@ -4,7 +4,7 @@ using UnityEngine;
 using System.Linq;
 #endif
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// A physical component consisting of multiple joints chained

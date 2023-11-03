@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-namespace Taijj.HeartWarming
+namespace Taijj.SampleCode
 {
 	/// <summary>
 	/// Data helper and communication object between <see cref="HeroMovement"/> and its <see cref="MoveState"/>s.
