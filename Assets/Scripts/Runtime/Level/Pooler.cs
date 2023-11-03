@@ -15,6 +15,7 @@ namespace Taijj.SampleCode
 
     /// <summary>
     /// Creates and pools GameOjects for later reuse.
+    /// NOTE: Created objects won't ever be destroyed for now.
     /// </summary>
     public class Pooler : MonoBehaviour
     {
